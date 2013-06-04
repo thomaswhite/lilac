@@ -40,4 +40,4 @@ Thumbs.db
 
 # Node Package Manager #
 ######################
-node_modules
+# node_modules
